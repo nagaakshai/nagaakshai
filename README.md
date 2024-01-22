@@ -3,7 +3,7 @@
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/adarsh-gupta101/adarsh-gupta101/main/assets/giphy.gif" />
 </h1>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="Coding" width="400" src="./gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaakshai&label=Profile%20views&color=0e75b6&style=flat" alt="nagaakshai" /> </p>
 
