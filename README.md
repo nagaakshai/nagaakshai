@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **reachnagaakshai@gmail.com**
 
-- ⚡ **Certainly! Let's craft a concise and engaging snippet for your GitHub profile: "Passionate tech enthusiast with a penchant for turning lines of code into creative solutions. 🚀 Explorer of the digital frontier, dedicated to crafting elegant solutions to complex problems. Constantly learning and evolving in the ever-changing world of technology. 💻✨ #TechExplorer"**
+- ⚡ **Passionate tech enthusiast with a penchant for turning lines of code into creative solutions. 🚀 Explorer of the digital frontier, dedicated to crafting elegant solutions to complex problems. Constantly learning and evolving in the ever-changing world of technology. 💻✨ #TechExplorer**
 
 
 <h3 align="left">Connect with me:</h3>
