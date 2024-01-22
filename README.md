@@ -16,7 +16,7 @@
 - 📫 How to reach me **reachnagaakshai@gmail.com**
 
 - ⚡ **Passionate tech enthusiast with a penchant for turning lines of code into creative solutions. 🚀 Explorer of the digital frontier, dedicated to crafting elegant solutions to complex problems. Constantly learning and evolving in the ever-changing world of technology. 💻✨ #TechExplorer**
-</br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/naga-akshai-071902m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naga-akshai-071902m" height="30" width="40" /></a>
