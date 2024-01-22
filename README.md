@@ -1,9 +1,9 @@
 <h1 align="center">Hi<a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>    I'm Naga Akshai</h1>
 <h3 align="center">A passionate developer from India</h3>
-<h1 align="center">
+<!--<h1 align="center">-->
  <img width="800" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU5MjA3NTEsIm5iZiI6MTcwNTkyMDQ1MSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIyVDEwNDczMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFiNTBiM2M1MzVjNmRjNWJjMjY3ZGUxMmNlNWM5M2NmNDc1MDFkYzc3MGU1NDczMjFkMjMwMGU4MDJjYmQwYzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.sJc00_T9ic2XD42L59u3hC8-cctQFsG1ll-66ZPZYuk" />
-</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<<!--/h1>-->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaakshai&label=Profile%20views&color=0e75b6&style=flat" alt="nagaakshai" /> </p>
 
