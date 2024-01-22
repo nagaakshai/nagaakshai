@@ -7,17 +7,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaakshai&label=Profile%20views&color=0e75b6&style=flat" alt="nagaakshai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagaakshai" alt="nagaakshai" /></a> </p>
+
 
 - 🔭 I’m currently working on **Java**
 
 - 👯 I’m looking to collaborate on **C, Java, Frontend dev**
 
-- 💬 Ask me about **C, Java, HTML, CSS**
+- 💬 Ask me about **C, Java, HTML, CSS, MySQL**
 
 - 📫 How to reach me **reachnagaakshai@gmail.com**
 
 - ⚡ **Certainly! Let's craft a concise and engaging snippet for your GitHub profile: "Passionate tech enthusiast with a penchant for turning lines of code into creative solutions. 🚀 Explorer of the digital frontier, dedicated to crafting elegant solutions to complex problems. Constantly learning and evolving in the ever-changing world of technology. 💻✨ #TechExplorer"**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nagaakshai" alt="nagaakshai" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
