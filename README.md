@@ -24,8 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/adarsh-vajpayee-27b900229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarshvajpayee" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adarshvajpayee19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adarshvajpayee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naga-akshai-071902m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nagaakshai" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ise057" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nagaakshai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
